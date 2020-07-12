@@ -1,0 +1,12 @@
+.picture{
+    border-color: black;
+    border-width: 10px;
+}
+
+.navbar-nav{
+    float: right;
+}
+
+.nav-item{
+    text-align: right;
+}
